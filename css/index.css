@@ -1,0 +1,149 @@
+body{
+    font-family: 'Hiragino lali GOthic Pro','Meiryo','sans-serif';
+    font-size: 15px;
+    border-top: 10px solid #2e426d !important; /*bodyの上にpx分色をつける*/
+}
+
+header{
+    background-color: #505050;
+    padding-bottom: 50px;
+
+}
+
+.toggle_btn{
+    display: block;
+    position: fixed;
+    top: 20px;
+    right: 30px;
+    width: 30px;
+    height: 30px;
+    z-index: 3;
+    cursor: pointer;
+}
+
+.toggle_btn span{
+    position: absolute;
+    display: block;
+    left: 0;
+    width: 30px;
+    height: 2px;
+    background-color: #ffffff;
+    transition: all 0.5s;
+    border-radius: 4px;
+}
+
+.toggle_btn span:nth-child(1){
+
+    top: 0;
+
+}
+.toggle_btn span:nth-child(2){
+
+    top: 10px;
+
+}
+
+.toggle_btn span:nth-child(3){
+
+    top: 20px;
+
+}
+
+#left{
+    display: block;
+    width: 220px;
+    position: fixed;
+    background-color: #ffffff;
+    top: 0;
+    left: -300px;
+    bottom: 0;
+    transition: all 0.5s;
+    z-index:3;
+    opacity: 0;
+
+}
+
+#left.open{
+    left:0px;
+    opacity: 1;
+}
+
+.background{
+    display: block;
+    background-color: #000000;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    opacity: 0.8;
+    transition: all 0.4s;
+}
+
+#left .inner{
+    padding: 25px;
+}
+
+#left .inner ul{
+    margin: 0;
+    padding: 0;
+}
+
+#left .inner ul li{
+    margin: 0;
+    border-bottom: 1px solid #333;
+}
+
+#left .inner ul li a{
+    display: block;
+    color: #333;
+    font-size: 14px;
+    padding: 1rem;
+    transition-duration: 0.2s;
+}
+
+#left .inner ul li a:hover{
+    background-color: #e4e4e4;
+}
+
+.right{
+    width: 1920px;
+    display: block;
+}
+
+.right ul{
+    justify-content: center;
+    margin-top: 10px;
+    display: flex;
+    padding: auto;
+    flex-wrap: wrap;
+}
+
+.right ul li{
+    
+    width: 400px;
+    height: 430px;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin-bottom: 5px;
+    margin-right: 3px;
+    flex-direction: column;
+}
+
+.shopping{
+   font-size: 20px;
+   text-align:center;
+}
+
+#shopbutton{
+    color: #fff;
+    background-color: #eb6100;
+    border-radius: 100vh;
+    padding: 1rem 1rem;
+    transition: all 0.2s;
+    display: block;
+    margin-top: auto;
+}
+#shopbutton:hover{
+    background-color: #af4900;
+}

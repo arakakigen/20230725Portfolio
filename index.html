@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+    
+    <header>
+        
+        <div class="toggle_btn" id = "toggle_btn" onclick="toggle_open('left','background')">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        
+    </header>
+
+    <div id="left">
+
+        <div class="inner">
+            <ul>
+                <li><a href="javascript:void(0)" onclick="http('food')">食品・レトルト</a></li>
+                <li><a href="javascript:void(0)" onclick="http('pc')">PC・周辺機器</a></li>
+                <li><a href="javascript:void(0)" onclick="http('book')">本・雑誌</a></li>
+                <li><a href="javascript:void(0)" onclick="http('shoes')">服・シューズ</a></li>
+                <li><a href="javascript:void(0)" onclick="http('car')">車・バイク用品</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="background"></div>
+
+    <div class="right" >
+        <ul id="uid">
+
+        </ul>
+    </div>
+
+    <script src="./js/index.js"></script>
+    <script src="./js/json.js"></script>
+
+</body>
+</html>

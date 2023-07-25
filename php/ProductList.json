@@ -1,0 +1,162 @@
+[
+    {
+        
+        "name":"【インスタント】肉汁たっぷりじっくりコトコト煮込みハンバーグ",
+        "category":"food",
+        "nedan":"値段:￥580(税込み)",
+        "src":"./photo/food.png"
+    },
+
+    {
+        "name":"中華風具だくさん肉まん",
+        "category":"food",
+        "nedan":"値段:￥250(税込み)",
+        "src":"./photo/food.png"
+    },
+    {
+        
+        "name":"チーズインハンバーグ",
+        "category":"food",
+        "nedan":"値段:￥600(税込み)",
+        "src":"./photo/food.png"
+    },
+
+    {
+         "name":"朝取れ野菜のシーザーサラダ",
+        "category":"food",
+        "nedan":"値段:￥1080(税込み)",
+        "src":"./photo/food.png"
+    },
+    {
+        "name":"ドライカレーシーフード風",
+        "category":"food",
+        "nedan":"値段:￥430(税込み)",
+        "src":"./photo/food.png"
+    },
+    {
+        
+        "name":"バンズふわふわハンバーガー",
+        "category":"food",
+        "nedan":"値段:￥690(税込み)",
+        "src":"./photo/food.png"
+    },
+    {
+        "name":"和風カップラーメン",
+        "category":"food",
+        "nedan":"値段:￥300(税込み)",
+        "src":"./photo/food.png"
+    },
+    {
+        
+        "name":"人参の袋詰め茨城直送",
+        "category":"food",
+        "nedan":"値段:￥1200(税込み)",
+        "src":"./photo/food.png"
+    },
+    {
+        
+        "name":"【240hz】GEN.Aゲーミングモニター【Japan】",
+        "category":"pc",
+        "nedan":"値段:￥145,000(税込み)",
+        "src":"./photo/pc.png"
+    },
+
+    {
+        "name":"【RTX-4090ti】GEN.A最新版グラフィックボード",
+        "category":"pc",
+        "nedan":"値段:￥235,200(税込み)",
+        "src":"./photo/pc.png"
+    },
+    {
+        
+        "name":"【業務用デスクトップPC】CPU intel-i7 4200K 最新版CPU搭載",
+        "category":"pc",
+        "nedan":"値段:￥72,000(税込み)",
+        "src":"./photo/pc.png"
+    },
+
+    {
+         "name":"【業務用マウス】GEN.A高品質センサー搭載",
+        "category":"pc",
+        "nedan":"値段:￥18,000(税込み)",
+        "src":"./photo/pc.png"
+    },
+    {
+        "name":"【イヤホン】ノイズキャンセリング搭載最新版",
+        "category":"pc",
+        "nedan":"値段:￥7,200(税込み)",
+        "src":"./photo/pc.png"
+    },
+    {
+        
+        "name":"【ヘッドホン】ノイズキャンセリング搭載最新版",
+        "category":"pc",
+        "nedan":"値段:￥11,000(税込み)",
+        "src":"./photo/pc.png"
+    },
+    {
+        "name":"【業務用ノートPC】CPU intel-i7 4200K 最新版CPU搭載",
+        "category":"pc",
+        "nedan":"値段:￥64,000(税込み)",
+        "src":"./photo/pc.png"
+    },
+    {
+        "name":"【絶対合格】ITパスポート教科書",
+        "category":"book",
+        "nedan":"値段:￥3,200(税込み)",
+        "src":"./photo/book.png"
+    },
+    {
+        
+        "name":"【絶対合格】基本情報技術者教科書",
+        "category":"book",
+        "nedan":"値段:￥4,200(税込み)",
+        "src":"./photo/book.png"
+    },
+    {
+        "name":"【絶対合格】応用情報技術者",
+        "category":"book",
+        "nedan":"値段:￥5,200(税込み)",
+        "src":"./photo/book.png"
+    },
+    {
+        "name":"【絶対合格】ITパスポート教科書",
+        "category":"book",
+        "nedan":"値段:￥3,200(税込み)",
+        "src":"./photo/book.png"
+    },
+    {
+        
+        "name":"【ランニングシューズ】ライバルを追い抜け！ランニングシューズ",
+        "category":"shoes",
+        "nedan":"値段:￥3,980(税込み)",
+        "src":"./photo/shoes.png"
+    },
+    {
+        "name":"【ランニングシューズ】60g！驚異の軽さ！ランニングシューズ",
+        "category":"shoes",
+        "nedan":"値段:￥8,290(税込み)",
+        "src":"./photo/shoes.png"
+    },
+    {
+        "name":"【スニーカー】MAX102スニーカー",
+        "category":"shoes",
+        "nedan":"値段:￥12,200(税込み)",
+        "src":"./photo/shoes.png"
+    },
+    {
+        "name":"車・バイクタイヤ用洗剤",
+        "category":"car",
+        "nedan":"値段:￥8,290(税込み)",
+        "src":"./photo/car.png"
+    },
+    {
+        "name":"激落ち！バイク用洗剤",
+        "category":"car",
+        "nedan":"値段:￥12,200(税込み)",
+        "src":"./photo/car.png"
+    }
+    
+    
+       
+]
